@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf9f1804-48c6-4114-a8e4-821523747a62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGFvr2cjoBIkVis3UE6P2RjvmI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\denis\IdeaProjects\RedditSearch" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SearchESL" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RedditSearch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchESL" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SearchESL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf9f1804-48c6-4114-a8e4-821523747a62" name="Default Changelist" comment="" />
+      <created>1584457757096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584457757096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom" timestamp="1584481385284">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom/0.0.1474.864/-1920.0.1858.1080@0.0.1474.864" timestamp="1584481385284" />
+    <state width="1431" height="277" key="GridCell.Tab.0.center" timestamp="1584481385284">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.0.center/0.0.1474.864/-1920.0.1858.1080@0.0.1474.864" timestamp="1584481385284" />
+    <state width="1431" height="277" key="GridCell.Tab.0.left" timestamp="1584481385284">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.0.left/0.0.1474.864/-1920.0.1858.1080@0.0.1474.864" timestamp="1584481385284" />
+    <state width="1431" height="277" key="GridCell.Tab.0.right" timestamp="1584481385284">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.0.right/0.0.1474.864/-1920.0.1858.1080@0.0.1474.864" timestamp="1584481385284" />
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom" timestamp="1584481385285">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom/0.0.1474.864/-1920.0.1858.1080@0.0.1474.864" timestamp="1584481385285" />
+    <state width="1431" height="277" key="GridCell.Tab.1.center" timestamp="1584481385284">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.center/0.0.1474.864/-1920.0.1858.1080@0.0.1474.864" timestamp="1584481385284" />
+    <state width="1431" height="277" key="GridCell.Tab.1.left" timestamp="1584481385284">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.left/0.0.1474.864/-1920.0.1858.1080@0.0.1474.864" timestamp="1584481385284" />
+    <state width="1431" height="277" key="GridCell.Tab.1.right" timestamp="1584481385284">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.right/0.0.1474.864/-1920.0.1858.1080@0.0.1474.864" timestamp="1584481385284" />
+  </component>
+</project>

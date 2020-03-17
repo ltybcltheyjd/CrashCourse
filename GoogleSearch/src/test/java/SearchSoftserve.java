@@ -22,6 +22,8 @@ public class SearchSoftserve {
 
         //Options
         driver.manage().window().maximize();
+        driver.manage().notify();
+
 
         // Google search
         driver.get(url);
