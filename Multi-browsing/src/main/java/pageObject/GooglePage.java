@@ -36,7 +36,7 @@ public class GooglePage extends BasePage {
     }
 
     public void enterFirstLink(){
-        webDriverWait.until(ExpectedConditions.elementToBeClickable(GoogleSearch)).click();
+              webDriverWait.until(ExpectedConditions.elementToBeClickable(GoogleSearch)).click();
     }
 
 }

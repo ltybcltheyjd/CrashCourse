@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 public class SoftServePage extends BasePage {
 
     @FindBy(className = "logo__image")
-    public WebElement verifyS;
+    public WebElement verifySearchSoftServe;
 
     String expectedURL = "www.softserveinc.com/en-us";
 
@@ -17,7 +17,7 @@ public class SoftServePage extends BasePage {
     }
 
     public void verifyThatResult() {
-        webDriverWait.until(ExpectedConditions.elementToBeClickable(verifyS));
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(verifySearchSoftServe));
         boolean count = driver.getCurrentUrl().contains(expectedURL);
         Assertions.assertThat(count).isTrue();
     }
